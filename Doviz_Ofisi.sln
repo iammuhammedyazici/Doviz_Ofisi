@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Doviz_Ofisi", "Doviz_Ofisi\Doviz_Ofisi.csproj", "{D3BC1B1B-F78A-4AEA-8C47-C60F8EC078C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3BC1B1B-F78A-4AEA-8C47-C60F8EC078C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3BC1B1B-F78A-4AEA-8C47-C60F8EC078C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3BC1B1B-F78A-4AEA-8C47-C60F8EC078C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3BC1B1B-F78A-4AEA-8C47-C60F8EC078C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28950073-CFA4-4C32-B039-F6385EF11FB3}
+	EndGlobalSection
+EndGlobal
